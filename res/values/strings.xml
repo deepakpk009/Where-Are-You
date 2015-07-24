@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="app_name">Where Are You</string>
+    <string name="info">Hi there, you found me.
+        \n If you lose your mobile,
+        \n just SMS
+        \n\n\'where.are.you\'
+        \n\nto your mobile
+        \nand I will ring your mobile
+        \nso that you can find it.
+        \nDont worry if you have put
+        \nyour mobile in
+        \nsilent or vibration mode,
+        \nI can handle that!
+        \n\nDeveloped By: Deepak PK
+        \nEmail: deepakpk009@yahoo.in
+        \nCheck out my other projects at:
+        \nhttp://sourceforge.net/users/deepakpk</string>
+    <string name="found">You found me!</string>
+
+</resources>
